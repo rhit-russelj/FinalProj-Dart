@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23595213811",
+    "project_id": "myvideobucket-d2271",
+    "storage_bucket": "myvideobucket-d2271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23595213811:android:2ae7884722ababd98b6886",
+        "android_client_info": {
+          "package_name": "com.example.my_photo_bucket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23595213811-reqhvjtofq3ode572qc7coe8dvrl53mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0cnne26KEfCYBdoYqogwqoPAqgqKwa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23595213811-girfbp63o2hohui8or9aelvliomrt6vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
